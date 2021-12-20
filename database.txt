@@ -1,0 +1,7 @@
+jani_2012_1,2012,jani,gramedia,ahai
+faqihza_2019_1,2019,faqihza,gramedia,belajar C++
+faqihza_2019_2,2019,faqihza,gramedia,belajar python
+faqihza_2019_3,2019,faqihza,gramedia,belajar Java
+azie_2020_1,2020,azie,Gramedia,Membuka
+Azie_2021_1,2021,Azie,Kompas,Manliness
+Haibaanjir_2020_2,2020,Haiba anjir,gramedia,terbang
